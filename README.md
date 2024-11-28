@@ -47,8 +47,8 @@ To gather and analyze data to validate the feasibility, requirements, and risks 
 
 ### Deliverables
 - Feasibility Report
-- Requirements Specification Document
-- Risk Assessment and Mitigation Plan
+- [Requirements Specification Document](/template/Requirements%20Specification%20Document%20.md)
+- [Risk Assessment and Mitigation Plan](/template/Risk%20Assessment%20and%20Mitigation%20Plan.md)
 
 ---
 
@@ -69,9 +69,9 @@ To create clear channels for efficient information sharing and collaboration amo
    - Assign roles for communication management, such as a project coordinator or team lead.
 
 ### Deliverables
-- Communication Plan Document
-- Stakeholder Contact List
-- Implemented Communication Tools
+- [Communication Plan Document](/template/Communication%20Plan%20Document.md)
+- [Stakeholder Contact List](template/Stakeholder%20Contact%20List.md)
+- [Implemented Communication Tools](/template/Implemented%20Communication%20Tools.md)
 
 ---
 
@@ -91,7 +91,7 @@ To create a formal document that defines the project's objectives, scope, stakeh
    - Obtain approval and sign-off from key stakeholders to validate the charter.
 
 ### Deliverables
-- Project Charter Document
+- [Project Charter Document](/template/Project%20Charter.md)
 - Stakeholder Sign-Off
 
 ---
