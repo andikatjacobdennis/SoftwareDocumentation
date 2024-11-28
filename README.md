@@ -22,8 +22,8 @@ To establish clear, actionable, and measurable objectives that the project aims 
    - Consolidate all goals into a formal document for approval.
 
 ### Deliverables
-- Project Goals Document
-- Stakeholder Approval Sign-Off
+- [Project Goals Document](/template/Project%20Goals%20Document.md)
+- [Stakeholder Approval Sign-Off](/template/Stakeholder%20Approval%20Sign-Off.md)
 
 ---
 
