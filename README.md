@@ -46,7 +46,7 @@ To gather and analyze data to validate the feasibility, requirements, and risks 
    - Evaluate potential market opportunities or challenges.
 
 ### Deliverables
-- [Feasibility Report](template/Feasibility%20Report.md)
+- [Feasibility Report](/template/Feasibility%20Report.md)
 - [Requirements Specification Document](/template/Requirements%20Specification%20Document%20.md)
 - [Risk Assessment and Mitigation Plan](/template/Risk%20Assessment%20and%20Mitigation%20Plan.md)
 
