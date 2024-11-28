@@ -1,4 +1,4 @@
-# Software Project Documentation with Waterfall Gantt Chart Structure
+# Software Project Documentation
 
 This document aligns the software project lifecycle processes with a **Waterfall Gantt Chart** framework. It outlines the purpose, implementation, and deliverables for each phase and task, ensuring clarity, alignment, and structured execution.
 
