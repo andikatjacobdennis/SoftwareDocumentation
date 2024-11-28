@@ -26,8 +26,8 @@ Establish actionable, measurable objectives aligned with organizational prioriti
    - Consolidate goals into a formal document for stakeholder approval.
 
 #### **Deliverables**
-- **Project Goals Document**
-- **Stakeholder Approval Sign-Off**
+- [Project Goals Document](./template/Project%20Goals%20Document.md)
+- [Stakeholder Approval Sign-Off](./template/Stakeholder%20Approval%20Sign-Off.md)
 
 ---
 
@@ -46,9 +46,9 @@ Validate feasibility, requirements, and risks through research and analysis.
    - Research comparable solutions and evaluate market opportunities.
 
 #### **Deliverables**
-- **Feasibility Report**
-- **Requirements Specification Document**
-- **Risk Assessment and Mitigation Plan**
+- [Feasibility Report](./template/Feasibility%20Report.md)
+- [Requirements Specification Document](./template/Requirements%20Specification%20Document%20.md)
+- [Risk Assessment and Mitigation Plan](./template/Risk%20Assessment%20and%20Mitigation%20Plan.md)
 
 ---
 
@@ -67,9 +67,9 @@ Ensure efficient collaboration and information sharing among stakeholders and te
    - Assign roles for communication management.
 
 #### **Deliverables**
-- **Communication Plan Document**
-- **Stakeholder Contact List**
-- **Implemented Communication Tools**
+- [Communication Plan Document](.//template/Communication%20Plan%20Document.md)
+- [Stakeholder Contact List](./template/Stakeholder%20Contact%20List.md)
+- [Implemented Communication Tools](./template/Implemented%20Communication%20Tools.md)
 
 ---
 
@@ -88,8 +88,8 @@ Formally document project objectives, scope, stakeholders, and constraints to pr
    - Secure sign-off from stakeholders.
 
 #### **Deliverables**
-- **Project Charter Document**
-- **Stakeholder Sign-Off**
+- [Project Charter Document](./template/Project%20Charter.md)
+- [Stakeholder Sign-Off](./template/Stakeholder%20Sign-Off%20Document.md)
 
 ---
 
@@ -110,9 +110,9 @@ Assemble a skilled team aligned with project requirements.
    - Set expectations for collaboration and deadlines.
 
 #### **Deliverables**
-- **Team Roster**
-- **Roles and Responsibilities Document**
-- **Onboarding Materials**
+- [Team Roster](./template/Team%20Roster.md)
+- [Roles and Responsibilities Document](./template/Roles%20and%20Responsibilities%20Document.md)
+- [Onboarding Materials](./template/Onboarding%20Materials.md)
 
 ---
 
