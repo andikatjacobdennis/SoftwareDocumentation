@@ -92,7 +92,7 @@ To create a formal document that defines the project's objectives, scope, stakeh
 
 ### Deliverables
 - [Project Charter Document](./template/Project%20Charter.md)
-- [Stakeholder Sign-Off](./template/Stakeholder Sign-Off Document.md)
+- [Stakeholder Sign-Off](./template/Stakeholder%20Sign-Off%20Document.md)
 
 ---
 
