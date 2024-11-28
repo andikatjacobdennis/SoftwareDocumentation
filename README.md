@@ -116,7 +116,7 @@ To assemble a group of skilled professionals tailored to the project's needs, en
 ### Deliverables
 - [Team Roster](./template/Team%20Roster.md)
 - [Roles and Responsibilities Document](./template/Roles%20and%20Responsibilities%20Document.md)
-- Onboarding Materials
+- [Onboarding Materials](./template/Onboarding%20Materials.md)
 
 ---
 
