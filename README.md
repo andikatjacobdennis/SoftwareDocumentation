@@ -114,7 +114,7 @@ To assemble a group of skilled professionals tailored to the project's needs, en
    - Set expectations for work quality, collaboration, and deadlines.
 
 ### Deliverables
-- Team Roster
+- [Team Roster](./template/Team%20Roster.md)
 - Roles and Responsibilities Document
 - Onboarding Materials
 
