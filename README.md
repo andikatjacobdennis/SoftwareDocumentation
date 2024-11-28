@@ -2,6 +2,8 @@
 
 This document outlines the purpose and implementation of five key processes in a software project lifecycle: **Define Goals**, **Conduct Studies**, **Establish Communication**, **Develop Charter**, and **Set Up Team**. Each section provides the purpose, steps involved, and expected deliverables for each process.
 
+![Waterfall-Gantt](Waterfall.jpg)
+
 ---
 
 ## 1. Define Goals
